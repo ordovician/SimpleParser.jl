@@ -19,6 +19,6 @@ The lexer implements the julia iterator interface so you iterate through each to
 
 [![Build Status](https://travis-ci.org/ordovician/SimpleParser.jl.svg?branch=master)](https://travis-ci.org/ordovician/SimpleParser.jl)
 
-[![Coverage Status](https://coveralls.io/repos/ordovician/SimpleParser.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/ordovician/SimpleParser.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/ordovician/SimpleParser.jl/badge.svg?branch=master)](https://coveralls.io/github/ordovician/SimpleParser.jl?branch=master)
 
 [![codecov.io](http://codecov.io/github/ordovician/SimpleParser.jl/coverage.svg?branch=master)](http://codecov.io/github/ordovician/SimpleParser.jl?branch=master)
